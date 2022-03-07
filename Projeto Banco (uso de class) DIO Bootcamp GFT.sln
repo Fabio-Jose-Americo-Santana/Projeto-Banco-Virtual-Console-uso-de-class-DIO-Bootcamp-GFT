@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto Banco (uso de class) DIO Bootcamp GFT", "Projeto Banco (uso de class) DIO Bootcamp GFT.csproj", "{BE153E6B-BB71-429A-89BD-BE9D65CBF38D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE153E6B-BB71-429A-89BD-BE9D65CBF38D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE153E6B-BB71-429A-89BD-BE9D65CBF38D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE153E6B-BB71-429A-89BD-BE9D65CBF38D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE153E6B-BB71-429A-89BD-BE9D65CBF38D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0622220-DCB9-452F-9773-97CDCC0B0C55}
+	EndGlobalSection
+EndGlobal
